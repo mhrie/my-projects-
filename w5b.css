@@ -1,0 +1,29 @@
+@media screen and (max-width:700px){
+    h1 {
+        font-size: 2em;
+        background-color: blue;
+    }
+    p {
+        font-size: 1em;
+        background-color: brown;
+    }
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+@media screen and (min-width:700px){
+    h1 {
+        font-size: 2em;
+        background-color: rgb(34, 211, 111);
+    }
+    p {
+        font-size: 1em;
+        background-color: rgb(207, 27, 135);
+    }
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+}

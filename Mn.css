@@ -1,0 +1,36 @@
+.layout {
+    display: flex;
+    font-size: small;
+}
+.mn {
+    border: 1px solid black;
+    width: 400px;
+    padding: 1%;
+    margin: 1%;
+}
+.ml {
+    border: 1px solid black;
+    width: 400px;
+    padding: 1%;
+    margin: 1%;
+}
+.mg {
+    border: 1px solid black;
+    width: 400px;
+    padding: 1%;
+    margin: 1%;
+}
+.mn:hover {
+    background-color: aqua;
+    box-shadow: 10px 10px 10px;
+}
+.ml:hover {
+    background-color:greenyellow;
+    box-shadow: 10px 10px 10px;
+    
+}
+.mg:hover {
+    background-color: blueviolet;
+    box-shadow: 10px 10px 10px;
+    
+}

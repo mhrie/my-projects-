@@ -1,0 +1,21 @@
+h1  {
+    color: blue;
+    font-size: 24px;
+    border-style:solid;
+    text-align: center;
+background-color:red;
+}
+p  { 
+    color: red;
+    font-size: 16px;
+   border-style:solid;
+    text-align: center;
+  background-color:yellow;
+}
+p::first-line {
+    color:brown;
+}
+body
+{
+    background-color: aquamarine;
+}

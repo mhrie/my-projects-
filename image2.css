@@ -1,0 +1,28 @@
+.parents {
+    display: grid;
+    height: 100vh;
+    grid-template-areas:"M S R"
+                        "K L Se"
+                        "N N N";
+    grid-template-rows: 33% 25% 42%;
+    grid-template-columns:20% 60% 20%;
+    
+}
+.child1 {
+    grid-area: S;
+    background-color: blue;
+    width: 100%;
+    height: 100%;
+}
+.child2 {
+    grid-area: L;
+    padding: 1%;
+
+
+}
+.smallImg {
+    width: 32%;
+    height: 100%;
+    margin: 1.5;
+}
+

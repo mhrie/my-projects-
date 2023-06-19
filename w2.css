@@ -1,0 +1,31 @@
+h1{
+    color: aqua;
+    font-size: 24px;
+}
+.my class{
+    font-weight: bold;
+
+}
+input{type="text"}{
+        border:1px solid grey;
+    }
+
+    
+        ul li{
+            color: blue;
+        }
+        div kbs{color: blue;}
+       
+       p:first-child {
+        color: blue;
+      } 
+      p {
+        display: none;
+        background-color: yellow;
+        padding: 20px;
+      }
+      
+      div:hover p {
+        display: block;
+      }
+       
